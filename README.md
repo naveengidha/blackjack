@@ -1,9 +1,8 @@
 # blackjack
 
 ## idea
-* script to emulate basic strategy situations over thousands of hands
-* output results to charts for analysis
-
+* input (CSV): player hand vs. dealer up card (AT,6)
+* output: basic strategy move
 
 
 *(https://guides.github.com/features/mastering-markdown/)* 
